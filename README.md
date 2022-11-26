@@ -1,7 +1,7 @@
 # 河北口人大学
 河北口人大学官网
 
-![image](img/icon.png)
+![image](https://github.com/sjtt2/hmpu/blob/main/img/icon.png)
 
 this is Hebei Mouth&People University’s offical websit
 
